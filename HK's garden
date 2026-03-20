@@ -1,0 +1,31 @@
+<html>
+    <html>
+    <title>Dreaming gardens</title>
+    <body style="background-color: C7FF9E">
+        <header>
+            <img src="HK garden logo.png"; height="50px"/>
+        </header>
+        <h1 style="text-align: center; background-color: 9BCF5B; text-decoration-style:double; font-size: 60px">Welcome to HK gardens</h1>
+        <p style="font-size: 20px;">
+           At <i>HK's garden</i>, we believe that every outdoor space has the potential to become a living masterpiece.<br/> Specializing in high-end landscape design and implementation, we bring together a curated selection of exotic trees and vibrant seasonal flowers to craft gardens that captivate the senses. Whether you envision a serene woodland retreat or a burst of botanical color, our expert horticulturists work with nature to transform your property into a timeless sanctuary. 
+        </p>
+        <table style="border: 2px solid greenyellow; background-color: goldenrod; text-align: center;">
+            <tr style="background-color: yellow; height: 50px; width: 200px;">
+                <td  style="border: 1px solid green; width: 200px;"><b><i>Tree</i></b></td>
+                <td  style="border: 1px solid green; width: 200px;"><b><i>Unit</i></b></td>
+                <td  style="border: 1px solid green; width: 200px"><b><i>Price</i></b></td>
+            </tr>
+            <tr>
+                <td><img src="https://hatgiongphuongnam.com/asset/upload/image/hat-giong-canh-buom-do-1.7_.jpg?v=20190410"; style="height: 20px"/>Hoa Buom Buom</td>
+                <td>100</td>
+                <td>1000</td>
+            </tr>
+            <tr>
+                <td> <img src="https://storage.googleapis.com/cdn_dlhf_vn/public/products/WPP3/WPP31A141/DSC_0132.jpg"; style="height: 20px">Hoa cam tu cau</td>
+                <td>50</td>
+                <td>20000</td>
+            </tr>
+        </table>
+    </body>
+
+</html>
